@@ -1,0 +1,2 @@
+ALTER TABLE produtos
+    ADD COLUMN IF NOT EXISTS nome_curto VARCHAR(80) NULL AFTER nome;

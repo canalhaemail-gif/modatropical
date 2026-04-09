@@ -1,0 +1,15 @@
+{
+  "name": "modatropical-message-renderer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render:scene": "node scripts/render_message_scene.mjs",
+    "render:composicao": "node scripts/render_composicao.js"
+  },
+  "dependencies": {
+    "@puppeteer/browsers": "^2.2.3",
+    "fabric": "^7.2.0",
+    "puppeteer-core": "^24.8.2",
+    "sharp": "^0.34.5"
+  }
+}
