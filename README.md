@@ -1,5 +1,3 @@
-oi
-
 # Moda Tropical - README Tecnico Completo
 
 > Ultima atualizacao: `2026-04-09`
